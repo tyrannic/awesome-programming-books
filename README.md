@@ -67,7 +67,8 @@
 ## Computer system
 
 - [《深入理解计算机系统》](./computer-system/深入理解计算机系统.pdf)
-- [《现代操作系统（第4版）》](./computer-system/现代操作系统（第3版）.pdf)
+- [《现代操作系统（第3版）》](./computer-system/现代操作系统（第3版）.pdf) 
+- [《现代操作系统（第4版）英文》](./computer-system/现代操作系统（第4版）英文.pdf) 
 - [《编码：隐匿在计算机软硬件背后的语言》](./computer-system/编码：隐匿在计算机软硬件背后的语言.pdf)
 - [《计算机程序的构造和解释（第2版）》](./computer-system/计算机程序的构造和解释（第2版）.pdf)
 - [《计算的本质：深入剖析程序和计算机》](./computer-system/计算的本质：深入剖析程序和计算机.pdf)
